@@ -1,1 +1,2 @@
-module.exports = 'Titulo del componente formativo'
+module.exports =
+  'Operación, supervisión e inventarios en el área de alojamiento'
