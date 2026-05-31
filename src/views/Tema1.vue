@@ -152,16 +152,6 @@
             td Espejos / ventanas.
             td 15 m² por atomizador.
 
-
-
-
-
-
-
-
-
-
-  
 </template>
 
 <script>
