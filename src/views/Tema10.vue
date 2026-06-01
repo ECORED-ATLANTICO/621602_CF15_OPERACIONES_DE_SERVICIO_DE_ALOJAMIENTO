@@ -105,7 +105,7 @@
 
     .row.mb-5.justify-content-center.align-items-stretch
       .col-sm-6.col-lg-5.col-xl-3.mb-3.mb-xl-0
-        .tarjeta-avatar-b.align-items-center(data-aos="fade-up").h-100
+        .tarjeta-avatar-b.align-items-center(data-aos="fade-down").h-100
           .tarjeta-avatar-b__img.align-items-baseline.h-100
             img(src='@/assets/curso/tema10/3.svg' alt='')
           .tarjeta.bg-secundario-s5.h-100
@@ -121,7 +121,7 @@
               h5 Reporte de bajas: 
               p.mb-0 Si una sábana está rota o manchada permanentemente, se retira de operación y se reporta como "baja".
       .col-sm-6.col-lg-5.col-xl-3.mb-3.mb-xl-0
-        .tarjeta-avatar-b.align-items-center(data-aos="fade-up").h-100
+        .tarjeta-avatar-b.align-items-center(data-aos="fade-down").h-100
           .tarjeta-avatar-b__img.align-items-baseline.h-100
             img(src='@/assets/curso/tema10/5.svg' alt='')
           .tarjeta.bg-secundario-s5.h-100
@@ -129,7 +129,7 @@
               h5 Reposición por #[em stock]: 
               p.mb-0 El ama de llaves autoriza la salida de activos nuevos del almacén para mantener el par stock completo.
       .col-sm-6.col-lg-5.col-xl-3.mb-3.mb-xl-0
-        .tarjeta-avatar-b.align-items-center(data-aos="fade-up").h-100
+        .tarjeta-avatar-b.align-items-center(data-aos="fade-down").h-100
           .tarjeta-avatar-b__img.align-items-baseline.h-100
             img(src='@/assets/curso/tema10/6.svg' alt='')
           .tarjeta.bg-secundario-s5.h-100

@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 6
-      h1 Clasificación de objetos 
+      h1 Objetos olvidados (#[em Lost & Found])
 
     .mt-5.pt-4
       .fullwidth-bg.fullwidth-bg--1
@@ -73,7 +73,7 @@
           img.mb-4.mb-lg-0(src="@/assets/curso/tema6/7.png", alt="" data-aos="zoom-in-down")
       .col-lg-8
         p El procedimiento de reporte y control permite registrar, comunicar y realizar seguimiento a novedades, objetos encontrados, daños, solicitudes o situaciones presentadas durante la operación hotelera. Su aplicación facilita el manejo adecuado de la información, fortalece la trazabilidad de los procesos y mejora la coordinación entre las diferentes áreas responsables dentro del establecimiento.
-        .p-4.bg-terciario-t5.mb-4.rounded-4.mb-3
+        .p-4.bg-acento-contenido-a5.mb-4.rounded-4.mb-3
           p.mb-0 En el caso de objetos olvidados (#[em Lost & Found]), el reporte debe efectuarse de manera inmediata, indicando las características del elemento, el lugar y fecha de hallazgo, la persona responsable y las condiciones en las que fue encontrado. Posteriormente, la pertenencia debe entregarse al área encargada para su respectivo almacenamiento, custodia y control.
         p.mb-0 Todo empleado que encuentre un objeto debe seguir estrictamente estos pasos:
 

@@ -91,7 +91,7 @@
       h5.mb-0 Clasificación de suministros, activos operativos y activos fijos en hotelería
 
     .row.g-0.rounded-4.bg-secundario-s10.mb-5.justify-content-center
-      .col-sm-6.col-lg-3.d-flex
+      .col-sm-6.col-lg-3.d-flex.align-items-center
         figure.m-0
           img(src="@/assets/curso/tema4/15.png", alt="" data-aos="zoom-in-down")
       .col-lg-9.p-4.p-xl-0

@@ -85,18 +85,18 @@
           img.mb-4.mb-lg-0(src="@/assets/curso/tema9/4.png", alt="" data-aos="zoom-in-down")
       .col-lg-7
         LineaTiempoD.color-primario
-          .row(numero="1" titulo="Líquidos (químicos):")
+          .row(numero="1" titulo="Líquidos (químicos)")
             .col-auto
-              p.mb-0 galones, litros o pimpinas (para dilución posterior).
-          .row(numero="2" titulo="Amenidades:")
+              p.mb-0 Galones, litros o pimpinas (para dilución posterior).
+          .row(numero="2" titulo="Amenidades")
             .col-auto
-              p.mb-0 unidades (unids), cajas o gruesas (144 unidades).
-          .row(numero="3" titulo="Papelería: ")
+              p.mb-0 Unidades (unids), cajas o gruesas (144 unidades).
+          .row(numero="3" titulo="Papelería")
             .col-auto
-              p.mb-0 resmas, paquetes o bloques.
-          .row(numero="4" titulo="Presentación: ")
+              p.mb-0 Resmas, paquetes o bloques.
+          .row(numero="4" titulo="Presentación")
             .col-auto
-              p.mb-0 se refiere al empaque (sachet, botella pet, envase dosificador dispenser). Los hoteles con política de sostenibilidad prefieren presentaciones de gran formato para recargar dosificadores fijos.
+              p.mb-0 Se refiere al empaque (sachet, botella pet, envase dosificador dispenser). Los hoteles con política de sostenibilidad prefieren presentaciones de gran formato para recargar dosificadores fijos.
 
     separador
 
@@ -148,15 +148,15 @@
           img.mb-4.mb-lg-0(src="@/assets/curso/tema9/5.png", alt="" data-aos="zoom-in-down")
       .col-lg-7
         LineaTiempoD.color-primario
-          .row(numero="1" titulo="Requisición:")
+          .row(numero="1" titulo="Requisición")
             .col-auto
-              p.mb-0 el auxiliar de habitaciones o la camarera solicita al ama de llaves los insumos necesarios para su turno mediante un formato de requisición interno.
-          .row(numero="2" titulo="Entrega y carga del carro:")
+              p.mb-0 El auxiliar de habitaciones o la camarera solicita al ama de llaves los insumos necesarios para su turno mediante un formato de requisición interno.
+          .row(numero="2" titulo="Entrega y carga del carro")
             .col-auto
-              p.mb-0 el personal alista su carro de limpieza verificando que lleve el stock suficiente para las 12-15 habitaciones asignadas.
-          .row(numero="3" titulo="Devolución:")
+              p.mb-0 El personal alista su carro de limpieza verificando que lleve el stock suficiente para las 12-15 habitaciones asignadas.
+          .row(numero="3" titulo="Devolución")
             .col-auto
-              p.mb-0 al finalizar el turno, los suministros sobrantes o envases vacíos (en el caso de químicos) deben regresar al office o almacén de piso para su conteo.
+              p.mb-0 Al finalizar el turno, los suministros sobrantes o envases vacíos (en el caso de químicos) deben regresar al office o almacén de piso para su conteo.
 
     separador
 

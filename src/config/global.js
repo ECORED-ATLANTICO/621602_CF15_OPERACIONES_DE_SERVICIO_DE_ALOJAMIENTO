@@ -139,7 +139,7 @@ export default {
       {
         nombreRuta: 'tema6',
         numero: '6',
-        titulo: 'Objetos olvidados (Lost & Found)',
+        titulo: 'Objetos olvidados (<em>Lost & Found</em>)',
         desarrolloContenidos: true,
         subMenu: [
           {

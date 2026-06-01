@@ -244,7 +244,7 @@
       h2 2.3 Mantenimiento y reporte de novedades
 
     .row.g-0.rounded-4.bg-secundario-s5.mb-5.justify-content-center
-      .col-sm-6.col-lg-3.d-flex
+      .col-sm-6.col-lg-3.d-flex.align-items-center
         figure.m-0
           img(src="@/assets/curso/tema2/15.png", alt="" data-aos="zoom-in-down")
       .col-lg-9.p-4.p-xl-0

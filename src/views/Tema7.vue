@@ -135,7 +135,7 @@
         p El pronóstico de ocupación puede verse afectado por diferentes variables internas y externas que influyen en el comportamiento de la demanda en los establecimientos de alojamiento. El análisis de estos factores permite realizar estimaciones más precisas sobre la cantidad de habitaciones que podrían ocuparse durante un periodo determinado, facilitando la planificación y organización de la operación hotelera.
         .p-4.bg-secundario-s5.rounded-4.mb-3
           p.mb-0 Entre las principales variables se encuentran las temporadas turísticas, eventos locales, reservas confirmadas, cancelaciones, historial de ocupación y tendencias del mercado. También influyen aspectos como las condiciones económicas, las tarifas, la competencia, la ubicación del establecimiento y las condiciones climáticas.
-        p.mb-0 De igual manera, factores operativos como habitaciones fuera de servicio, mantenimientos programados, capacidad instalada y disponibilidad de personal pueden modificar las proyecciones de ocupación. Asimismo, situaciones externas como festividades, vacaciones o emergencias pueden generar variaciones significativas en la demanda.
+        p.mb-4.mb-lg-0 De igual manera, factores operativos como habitaciones fuera de servicio, mantenimientos programados, capacidad instalada y disponibilidad de personal pueden modificar las proyecciones de ocupación. Asimismo, situaciones externas como festividades, vacaciones o emergencias pueden generar variaciones significativas en la demanda.
       .col-sm-8.col-lg-4
         figure
           img(data-aos="fade-down-right", src="@/assets/curso/tema7/10.png", alt="")
@@ -149,18 +149,18 @@
           img.mb-4.mb-lg-0(src="@/assets/curso/tema7/11.png", alt="" data-aos="zoom-in-down")
       .col-lg-7
         LineaTiempoD.color-primario
-          .row(numero="1" titulo="Cancelaciones de último momento: ")
+          .row(numero="1" titulo="Cancelaciones de último momento")
             .col-auto
-              p.mb-0 reducen la ocupación prevista.
-          .row(numero="2" titulo="No-shows: ")
+              p.mb-0 Reducen la ocupación prevista.
+          .row(numero="2" titulo="<em>No-shows</em>")
             .col-auto
-              p.mb-0 huéspedes con reserva que no se presentan.
-          .row(numero="3" titulo="Salidas anticipadas o prolongaciones de estancia: ")
+              p.mb-0 Huéspedes con reserva que no se presentan.
+          .row(numero="3" titulo="Salidas anticipadas o prolongaciones de estancia")
             .col-auto
-              p.mb-0 huéspedes huéspedes que deciden irse antes o quedarse más días de lo planeado.
-          .row(numero="4" titulo="Eventos locales: ")
+              p.mb-0 Huéspedes que deciden irse antes o quedarse más días de lo planeado.
+          .row(numero="4" titulo="Eventos locales")
             .col-auto
-              p.mb-0 huéspedes ferias, congresos o festividades que aumentan la demanda inesperadamente.
+              p.mb-0 Huéspedes ferias, congresos o festividades que aumentan la demanda inesperadamente.
 
   </template>
 

@@ -106,7 +106,7 @@
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/tema1/5.png", alt="")
-          .crd_hover_txt--body.bg-secundario-s5.pt-lg-2
+          .crd_hover_txt--body.bg-secundario-s5.pt-2.pt-sm-4.pt-lg-2
             h4.mb-3.text-center Ficha técnica y hoja de seguridad (FDS/MSDS)
             p.mb-0.text-center Documentos obligatorios que dictan el uso, riesgos y primeros auxilios. Es vital el cumplimiento del Sistema Globalmente Armonizado (SGA) para el etiquetado.
     
