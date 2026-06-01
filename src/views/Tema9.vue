@@ -69,7 +69,7 @@
           p.mb-0.text-center Define el estándar del hotel (ej. "jabón de tocador de 20 gr con aroma a té verde y empaque biodegradable").
       .col-sm-6.col-lg-4.col-xl-3.mb-4.mb-xl-0
         figure.h-100
-          img(src="@/assets/curso/tema9/3.png", alt="" data-aos="fade-down-right")
+          img.h-100(src="@/assets/curso/tema9/3.png", alt="" data-aos="fade-down-right")
 
     separador
 
@@ -216,9 +216,6 @@
 
     #t_9_7.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 9.7 Control de rendimientos y costos
-
-    .p-4.bg-secundario-s5.rounded-4.mb-4
-      p.mb-0.text-center El control de rendimientos y costos es una herramienta utilizada para monitorear y evaluar el consumo y aprovechamiento de los productos e insumos utilizados en la operación hotelera. Su aplicación permite identificar patrones de uso, optimizar el uso de recursos y reducir los costos operativos dentro del área de alojamiento.
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-sm-8.col-lg-4

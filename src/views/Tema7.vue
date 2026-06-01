@@ -108,7 +108,7 @@
     .bg-title.bg-title--lg.p-3.rounded-5.pe-5.mb-4(data-aos="fade-down-right")
       h5.mb-0 Fórmula de ocupación:
     
-    .row.justify-content-center
+    .row.justify-content-center.mb-4.mb-lg-5
       .col-lg-10.col-xl-8
         figure
           img(src="@/assets/curso/tema7/8.svg", alt="" data-aos="zoom-in-down")
@@ -141,7 +141,7 @@
           img(data-aos="fade-down-right", src="@/assets/curso/tema7/10.png", alt="")
     
     .p-4.bg-secundario-s10.rounded-4.mb-4
-      p.mb-0 El coordinador debe estar atento a factores externos que pueden alterar la estimación inicial:
+      p.mb-0.text-center El coordinador debe estar atento a factores externos que pueden alterar la estimación inicial:
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-sm-10.col-lg-5
@@ -162,18 +162,6 @@
             .col-auto
               p.mb-0 huéspedes ferias, congresos o festividades que aumentan la demanda inesperadamente.
 
-
-
-
-
-
-
-
-
-
-
-
-  
   </template>
 
 <script>

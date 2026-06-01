@@ -252,28 +252,28 @@
           p.mb-0.px-lg-3 Durante las actividades operativas de limpieza, supervisión y alistamiento de habitaciones, el personal del área de alojamiento debe inspeccionar constantemente el estado de las instalaciones con el fin de identificar daños, anomalías o condiciones que requieran atención técnica o acciones correctivas. Entre las situaciones más comunes se encuentran problemas eléctricos, filtraciones, deterioro del mobiliario, fallas en equipos, inconvenientes de iluminación y desgaste de accesorios o elementos de uso frecuente.
 
     AcordionA(tipo="a" clase-tarjeta="tarjeta bg-terciario-t5").mb-5
-      .row.justify-content-center.align-items-center.z-2.p-4(titulo="Inspección táctil")
+      .row.justify-content-center.align-items-center(titulo="Inspección táctil")
         .col-sm-10.col-lg-8.col-xl-7.mb-4.mb-lg-0
           p.mb-0 Consiste en verificar manualmente el estado de muebles, accesorios, equipos y superficies para identificar humedad, desprendimientos, inestabilidad, desgaste o fallas que no siempre son visibles a simple vista. Esta actividad permite detectar oportunamente condiciones que puedan afectar la seguridad, funcionalidad o presentación de las habitaciones.
         .col-sm-8.col-lg-4.col-xl-3
           figure
             img(src="@/assets/curso/tema2/16.png", alt="" data-aos="zoom-in-down")
 
-      .row.justify-content-center.align-items-center.z-2.p-4(titulo="Reporte de daños")
+      .row.justify-content-center.align-items-center(titulo="Reporte de daños")
         .col-sm-10.col-lg-8.col-xl-7.mb-4.mb-lg-0
           p.mb-0 Corresponde al registro y comunicación de averías, deterioros o irregularidades detectadas durante las labores operativas. Su finalidad es informar oportunamente al área responsable para gestionar acciones de mantenimiento preventivo o correctivo que garanticen la continuidad y calidad del servicio.
         .col-sm-8.col-lg-4.col-xl-3
           figure
             img(src="@/assets/curso/tema2/17.png", alt="" data-aos="zoom-in-down")
 
-      .row.justify-content-center.align-items-center.z-2.p-4(titulo="Verificación de funcionamiento")
+      .row.justify-content-center.align-items-center(titulo="Verificación de funcionamiento")
         .col-sm-10.col-lg-8.col-xl-7.mb-4.mb-lg-0
           p.mb-0 Actividad orientada a comprobar el correcto funcionamiento de equipos y elementos de uso frecuente dentro de la habitación, como luminarias, cerraduras, griferías, aire acondicionado, teléfonos, controles y tomas eléctricas. Su aplicación permite prevenir fallas operativas y asegurar condiciones adecuadas de confort y seguridad para el huésped.
         .col-sm-8.col-lg-4.col-xl-3
           figure
             img(src="@/assets/curso/tema2/18.png", alt="" data-aos="zoom-in-down")
 
-      .row.justify-content-center.align-items-center.z-2.p-4(titulo="Control de condiciones locativas")
+      .row.justify-content-center.align-items-center(titulo="Control de condiciones locativas")
         .col-sm-10.col-lg-8.col-xl-7.mb-4.mb-lg-0
           p.mb-0 Revisar el estado general de paredes, pisos, techos, ventanas y demás componentes estructurales de la habitación para identificar manchas, humedad, fisuras, desprendimientos o deterioros que puedan afectar la imagen, seguridad o mantenimiento del espacio de alojamiento.
         .col-sm-8.col-lg-4.col-xl-3

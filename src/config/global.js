@@ -113,7 +113,7 @@ export default {
           },
           {
             numero: '4.7',
-            titulo: 'Organización y control operativo del office',
+            titulo: 'Organización y control operativo del <em>office</em>',
             hash: 't_4_7',
           },
         ],

@@ -127,16 +127,6 @@
               li Donarlo a fundaciones o instituciones de caridad.
               li Destruirlo (en caso de documentos o tarjetas bancarias).
 
-
-
-
-
-
-
-
-
-
-
   </template>
 
 <script>
