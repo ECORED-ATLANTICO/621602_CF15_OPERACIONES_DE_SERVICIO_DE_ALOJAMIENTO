@@ -76,7 +76,7 @@
     .bg-title.bg-title--lg.p-3.rounded-5.pe-5.mb-4(data-aos="fade-down-right")
       h5.mb-0 Claves de estado de habitación
 
-    SlyderF(columnas="col-lg-6 col-xl-4 mb-5")
+    SlyderF(columnas="col-lg-6 col-xl-4")
       .tarjeta.bg-img.bg-img--3.p-4.py-5.h-100
         .row.justify-content-center.mb-3
           .col-6

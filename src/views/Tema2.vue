@@ -177,7 +177,7 @@
     .p-4.bg-acento-contenido-a5.rounded-4.mb-3
       p.mb-0.text-center La limpieza de superficies verticales requiere una técnica ascendente para evitar marcas permanentes.
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center
       .col-lg-6
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema2/11.png", alt="" data-aos="zoom-in-down")
