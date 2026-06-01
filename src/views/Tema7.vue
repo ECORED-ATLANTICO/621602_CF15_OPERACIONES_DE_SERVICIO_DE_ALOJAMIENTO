@@ -1,18 +1,18 @@
 <template lang="pug">
-.curso-main-container.pb-3
-  BannerInterno
-  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
-      .titulo-principal__numero
-        span 9
-      h1 Tema 9
-
-
-</template>
+  .curso-main-container.pb-3
+    BannerInterno
+    .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
+      .titulo-principal.color-acento-contenido
+        .titulo-principal__numero
+          span 7
+        h1 Tema 7
+  
+  
+  </template>
 
 <script>
 export default {
-  name: 'Tema9',
+  name: 'Tema7',
   data: () => ({
     // variables de vue
   }),

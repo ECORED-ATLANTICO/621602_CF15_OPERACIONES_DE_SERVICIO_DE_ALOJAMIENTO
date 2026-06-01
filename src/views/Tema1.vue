@@ -11,7 +11,7 @@
       .fullwidth-bg.fullwidth-bg--1
       img(data-aos="fade-up")(src="@/assets/curso/tema1/1.png", alt="").z-2
       
-      .row.justify-content-center.z-2.mb-3
+      .row.justify-content-center.z-2
         .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
           div.banner-text.shadow
             p.mb-0 Las técnicas operativas y la gestión química comprenden el conjunto de procedimientos, métodos y controles aplicados en el área de alojamiento para garantizar condiciones adecuadas de limpieza, higiene, desinfección, conservación de superficies y seguridad operacional dentro de los establecimientos de hospedaje. Estas actividades incluyen procesos organizados y estandarizados relacionados con la limpieza de habitaciones, áreas comunes, mobiliario y equipos. La meta es alcanzar la eficiencia estética y sanitaria sin comprometer la vida útil de los materiales.
