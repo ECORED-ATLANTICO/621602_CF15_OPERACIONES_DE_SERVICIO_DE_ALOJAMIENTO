@@ -73,7 +73,7 @@ export default {
             },
             {
               id: 'b',
-              texto: 'Trapeado en zigzag o forma de ocho.',
+              texto: 'Trapeado en <em>zigzag</em> o forma de ocho.',
               esCorrecta: true,
             },
             {
@@ -214,7 +214,7 @@ export default {
             },
             {
               id: 'd',
-              texto: 'Técnica en forma de “S” o zigzag.',
+              texto: 'Técnica en forma de “S” o <em>zigzag</em>.',
               esCorrecta: true,
             },
           ],
@@ -290,7 +290,7 @@ export default {
         },
         {
           id: 9,
-          texto: '¿Cuál es el propósito del stock mínimo?',
+          texto: '¿Cuál es el propósito del <em>stock</em> mínimo?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -317,9 +317,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Se evidenció que comprende el propósito del stock mínimo.',
+            'Se evidenció que comprende el propósito del <em>stock</em> mínimo.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente el componente del propósito del stock mínimo.',
+            'Se recomienda revisar nuevamente el componente del propósito del <em>stock</em> mínimo.',
         },
         {
           id: 10,

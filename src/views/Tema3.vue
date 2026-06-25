@@ -41,7 +41,7 @@
             span Tiempos técnicos de ejecución por tipo de habitación
           .tabla-a.color-acento-contenido.tabla-a--text-left.mb-4
             table
-              caption Nota. SENA, (2024).
+              caption Nota. SENA, (2026).
               thead
                 tr(style="background-color: #F0F6F9")
                   th Tipo de situación
@@ -49,27 +49,27 @@
                   th Tiempo estimado (min)
               tbody
                 tr
-                  td Salida (#[em Check-out]).
+                  td Salida (#[em Check-out])
                   td Doble (uso individual).
                   td 35 - 40
                 tr
-                  td Salida (#[em Check-out]).
+                  td Salida (#[em Check-out])
                   td Doble (2 personas).
                   td 45 - 48
                 tr
-                  td Ocupada (#[em Stay-over]).
+                  td Ocupada (#[em Stay-over])
                   td Doble (2 personas).
                   td 24 - 29
                 tr
-                  td Cama Individual.
+                  td Cama Individual
                   td Cambio total de ropa limpia.
                   td 4 - 5
                 tr
-                  td Baño (Salida).
+                  td Baño (Salida)
                   td Limpieza profunda (2 personas).
                   td 12 - 14
                 tr
-                  td Baño (Ocupada).
+                  td Baño (Ocupada)
                   td Limpieza de rutina (2 personas).
                   td 8 - 10
 
@@ -86,12 +86,12 @@
         .row.justify-content-center.mb-3
           .col-6
             img.w-90.mb-4(src='@/assets/curso/tema3/4.svg' alt='')
-        p.text-center Dominar la información que se va a transmitir.
+        p.text-center No molestar: el huésped solicita privacidad y restringe el ingreso del personal.
       .tarjeta.bg-img.bg-img--3.p-4.py-5.h-100
         .row.justify-content-center.mb-3
           .col-6
             img.w-90.mb-4(src='@/assets/curso/tema3/5.svg' alt='')
-        p.text-center Recordar que la imagen personal es parte del servicio.
+        p.text-center Fuera de servicio (reparación): inhabilitada temporalmente debido a daños, mantenimiento o reparaciones.
       .tarjeta.bg-img.bg-img--3.p-4.py-5.h-100
         .row.justify-content-center.mb-3
           .col-6

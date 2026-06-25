@@ -25,8 +25,8 @@
     .row.justify-content-center.align-items-stretch
       .col-sm-6.col-lg-5.col-xl-3.mb-4.mb-xl-0
         .tarjeta.bg-img.bg-img--3.p-4.py-5.h-100
-          h5.text-center Amenidades (amenities)
-          p.text-center Artículos de aseo personal para el huésped (jabón, shampoo, gorro de ducha, kit dental).
+          h5.text-center Amenidades (<em>amenities</em>)
+          p.text-center Artículos de aseo personal para el huésped (jabón, <em>shampoo</em>, gorro de ducha, <em>kit</em> dental).
       .col-sm-6.col-lg-5.col-xl-3.mb-4.mb-xl-0
         .tarjeta.bg-img.bg-img--3.p-4.py-5.h-100
           h5.text-center Suministros de limpieza (insumos químicos)
@@ -62,7 +62,7 @@
       .col-sm-6.col-lg-4.col-xl-3.mb-4.mb-xl-0
         .p-4.rounded-4.bg-img.bg-img--3.h-100
           h5.text-center Ficha de datos de seguridad (FDS / SGA)
-          p.mb-0.text-center Documento que indica los niveles de toxicidad, equipo de protección personal (EPP) requerido y primeros auxilios. Es fundamental para los productos químicos.
+          p.mb-0.text-center Crucial para los químicos. Indica los niveles de toxicidad, equipo de protección personal (EPP) requerido y primeros auxilios.
       .col-sm-6.col-lg-4.col-xl-3.mb-4.mb-xl-0
         .p-4.rounded-4.bg-img.bg-img--3.h-100
           h5.text-center Especificación de calidad
@@ -77,7 +77,7 @@
       h2 9.3 Unidades de medida y presentación
 
     .p-4.bg-secundario-s5.rounded-4.mb-4
-      p.mb-0.text-center Las unidades de medida y presentación son criterios que permiten determinar la cantidad y forma de entrega de los insumos utilizados en la operación hotelera. Su adecuada gestión contribuye a la eficiencia en el uso de recursos, la optimización de costos y la garantía de la calidad del servicio.
+      p.mb-0.text-center Permiten identificar y controlar correctamente las cantidades y formas de distribución de los productos e insumos utilizados en la operación hotelera. Su adecuada aplicación facilita el manejo de inventarios, el control de consumo y el uso eficiente de los recursos en el área de alojamiento. Para el control de inventarios, los suministros se gestionan bajo unidades estandarizadas:
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-sm-10.col-lg-5
@@ -96,7 +96,7 @@
               p.mb-0 Resmas, paquetes o bloques.
           .row(numero="4" titulo="Presentación")
             .col-auto
-              p.mb-0 Se refiere al empaque (sachet, botella pet, envase dosificador dispenser). Los hoteles con política de sostenibilidad prefieren presentaciones de gran formato para recargar dosificadores fijos.
+              p.mb-0 Se refiere al empaque (<em>sachet</em>, botella <em>pet</em>, envase dosificador <em>dispenser</em>). Los hoteles con política de sostenibilidad prefieren presentaciones de gran formato para recargar dosificadores fijos.
 
     separador
 
@@ -121,27 +121,29 @@
 
             tbody
               tr
-                td Papel higiénico.
-                td Rollo.
-                td 0.25 rollos / habitación ocupada.
+                td Papel higiénico
+                td Rollo
+                td 0.25 rollos / habitación ocupada
               tr
-                td Champú (20 ml).
-                td Unidad.
-                td 1 unidad / persona.
+                td Champú (20 ml)
+                td Unidad
+                td 1 unidad / persona
               tr
-                td Limpiavidrios.
-                td Mililitros (ml).
-                td 15 ml / habitación.
+                td Limpiavidrios
+                td Mililitros (ml)
+                td 15 ml / habitación
               tr
-                td Jabón en barra.
-                td Unidad.
-                td 1 unidad / habitación (salida).
+                td Jabón en barra
+                td Unidad
+                td 1 unidad / habitación (salida)
 
     separador
 
     #t_9_5.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 9.5 Procedimientos de solicitud y manejo
-
+    .row.justify-content-center.align-items-center
+      .col-12
+        p.mb-3 El flujo de los suministros debe ser auditable en todo momento:
     .row.justify-content-center.align-items-center
       .col-sm-10.col-lg-5
         figure
@@ -153,10 +155,10 @@
               p.mb-0 El auxiliar de habitaciones o la camarera solicita al ama de llaves los insumos necesarios para su turno mediante un formato de requisición interno.
           .row(numero="2" titulo="Entrega y carga del carro")
             .col-auto
-              p.mb-0 El personal alista su carro de limpieza verificando que lleve el stock suficiente para las 12-15 habitaciones asignadas.
+              p.mb-0 El personal alista su carro de limpieza verificando que lleve el <em>stock</em> suficiente para las 12-15 habitaciones asignadas.
           .row(numero="3" titulo="Devolución")
             .col-auto
-              p.mb-0 Al finalizar el turno, los suministros sobrantes o envases vacíos (en el caso de químicos) deben regresar al office o almacén de piso para su conteo.
+              p.mb-0 Al finalizar el turno, los suministros sobrantes o envases vacíos (en el caso de químicos) deben regresar al <em>office</em> o almacén de piso para su conteo.
 
     separador
 
@@ -187,30 +189,30 @@
 
         tbody
           tr
-            td Detergente multiusos.
-            td Limpiador.
-            td Ph neutro, biodegradable, aroma cítrico.
-            td Galón / bidón 5 lts.
+            td Detergente multiusos
+            td Limpiador
+            td Ph neutro, biodegradable, aroma cítrico
+            td Galón / bidón 5 lts
           tr
-            td Amonio cuaternario.
-            td Desinfectante.
-            td Quinta generación, amplio espectro virucida.
-            td Litro concentrado.
+            td Amonio cuaternario
+            td Desinfectante
+            td Quinta generación, amplio espectro virucida
+            td Litro concentrado
           tr
-            td Limpiavidrios.
-            td Solvente.
-            td Base alcohol, secado rápido, sin vetas.
-            td Atomizador 500 ml.
+            td Limpiavidrios
+            td Solvente
+            td Base alcohol, secado rápido, sin vetas
+            td Atomizador 500 ml
           tr
-            td Papel higiénico.
-            td Consumible.
-            td Doble hoja, precortado, 250 hojas / rollo.
-            td Paca x 48 rollos.
+            td Papel higiénico
+            td Consumible
+            td Doble hoja, precortado, 250 hojas / rollo
+            td Paca x 48 rollos
           tr
-            td Jabón de tocador.
-            td Amenidad.
-            td 20 gr, envase de papel kraft (sostenible).
-            td Caja x 100 unid.
+            td Jabón de tocador
+            td Amenidad
+            td 20 gr, envase de papel kraft (sostenible)
+            td Caja x 100 unid
   
     separador
 
@@ -243,21 +245,21 @@
 
             tbody
               tr
-                td Desinfectante baños.
-                td 30 ml.
-                td 1 litro = 33 habitaciones.
+                td Desinfectante baños
+                td 30 ml
+                td 1 litro = 33 habitaciones
               tr
-                td Limpiavidrios.
-                td 10 ml.
-                td 500 ml = 50 habitaciones.
+                td Limpiavidrios
+                td 10 ml
+                td 500 ml = 50 habitaciones
               tr
                 td Bolsas de basura
-                td 2 unidades.
-                td 1 paquete (50u) = 25 habitaciones.
+                td 2 unidades
+                td 1 paquete (50u) = 25 habitaciones
               tr
                 td Champú / acondicionador
-                td 1 unidad c / u.
-                td 1 caja (100u) = 100 personas.
+                td 1 unidad c / u
+                td 1 caja (100u) = 100 personas
 
     .row.justify-content-center.align-items-stretch.mb-4.mb-lg-5.z-2
       .col-sm-8.col-lg-5.d-none.d-lg-block

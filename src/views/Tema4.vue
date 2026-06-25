@@ -41,7 +41,6 @@
         .row.justify-content-center.align-items-center
           .col-lg-6.mb-4.mb-lg-0
             h4 Sistema FIFO (<em>First In, First Out</em>)
-            p Consiste en utilizar primero los productos que ingresaron inicialmente al almacén, evitando vencimientos o deterioro de insumos.
             p.mb-0 Consiste en utilizar primero los productos que ingresaron inicialmente al almacén, evitando vencimientos o deterioro de insumos.
           .col-sm-8.col-lg-4
             figure
@@ -149,18 +148,18 @@
           .row.justify-content-center.align-items-center.mb-5
             .col-lg-11
               h4 #[em Stock] mínimo 
-              p.mb-0 Es la cantidad mínima de productos que se deben mantener en el almacén para evitar desabastecimientos durante la operación.
+              p.mb-0 Cantidad límite inferior de un producto. Al llegar a este punto, se debe generar una orden de compra.
           .row.justify-content-center.align-items-center.mb-5
             .col-lg-11
               h4 #[em Stock] máximo 
-              p.mb-0 Es la cantidad máxima que el almacén puede o debe custodiar para evitar deterioro o pérdidas de espacio.
+              p.mb-0 Cantidad máxima que el almacén puede o debe custodiar para evitar deterioro o pérdidas de espacio.
           .row.justify-content-center.align-items-center.mb-5
             .col-lg-11
               h4 Stock de seguridad 
               p.mb-0 Reserva extra para cubrir retrasos de proveedores o picos inesperados de ocupación.
           .row.justify-content-center.align-items-center.mb-5
             .col-lg-11
-              h4 Tiempo de espera (lead time)
+              h4 Tiempo de espera (<em>lead time</em>)
               p.mb-0 Días que transcurren desde que se solicita el pedido hasta que llega al hotel.
       .col-sm-11.col-lg-6
         figure
@@ -242,6 +241,13 @@
       h2 4.5 Recepción de suministros y criterios éticos
 
     .row.justify-content-center.align-items-center
+      .col-lg-12
+        p.mb-3 La realización de este proceso permite verificar que los insumos recibidos cumplan con las cantidades, características, condiciones de calidad y especificaciones definidas por el establecimiento, asegurando la continuidad y eficiencia de las operaciones del servicio.
+        p.mb-3 Durante la recepción de suministros es fundamental realizar controles relacionados con el estado físico de los productos, las fechas de vencimiento, las condiciones del empaque, las cantidades solicitadas y el cumplimiento de las órdenes de compra. Estas revisiones ayudan a prevenir pérdidas, inconsistencias en el abastecimiento y posibles afectaciones en la operación del área de alojamiento.
+        p.mb-3 Al recibir mercancía de proveedores o del almacén central, se debe seguir este procedimiento:
+
+
+    .row.justify-content-center.align-items-center
       .col-sm-8.col-lg-4
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema4/28.png", alt="" data-aos="zoom-in-down")
@@ -277,7 +283,7 @@
       span Modelo de protocolos de almacenamiento por tipo de insumo
     .tabla-a.color-acento-contenido.tabla-a--text-left
       table
-        caption Nota. SENA, (2024).
+        caption Nota. SENA, (2026).
         thead
           tr(style="background-color: #F0F6F9")
             th Categoría
@@ -286,24 +292,24 @@
             th Riesgos a evitar
         tbody
           tr
-            td Amenidades y consumibles.
-            td Jabones, #[em shampoo], kits dentales, café, té.
-            td Lugar fresco, seco y protegido de la luz solar directa. Mantener en sus empaques originales.
+            td Amenidades y consumibles
+            td Jabones, #[em shampoo], kits dentales, café, té
+            td Lugar fresco, seco y protegido de la luz solar directa. Mantener en sus empaques originales
             td Humedad (jabones derretidos), caducidad prematura, decoloración del empaque.
           tr
-            td Insumos químicos (limpieza).
-            td Desinfección de puntos de contacto (manijas, control).
-            td Área ventilada, lejos de fuentes de calor. Almacenar por debajo de la lencería para evitar derrames accidentales que dañen los textiles.
+            td Insumos químicos (limpieza)
+            td Desinfección de puntos de contacto (manijas, control)
+            td Área ventilada, lejos de fuentes de calor. Almacenar por debajo de la lencería para evitar derrames accidentales que dañen los textiles
             td Evaporación, degradación de compuestos, derrame y contaminación.
           tr
-            td Papelería y complementos.
-            td Papel higiénico, pañuelos, libretas, bolígrafos, bolsas.
-            td Lugar seco, libre de humedad excesiva. Apilar en estanterías, nunca directamente sobre el piso.
+            td Papelería y complementos
+            td Papel higiénico, pañuelos, libretas, bolígrafos, bolsas
+            td Lugar seco, libre de humedad excesiva. Apilar en estanterías, nunca directamente sobre el piso
             td Papel húmedo, arrugado o manchado, tinta de bolígrafos seca.
           tr
-            td Bienes muebles pequeños.
-            td Ganchos (perchas), vasos, termos, cubetas.
-            td Organizados por tipo en estanterías. Evitar el apilamiento excesivo.
+            td Bienes muebles pequeños
+            td Ganchos (perchas), vasos, termos, cubetas
+            td Organizados por tipo en estanterías. Evitar el apilamiento excesivo
             td Daños físicos, rayones, desportillado (vasos).
 
     separador 
@@ -322,7 +328,7 @@
     .bg-title.bg-title--lg.p-3.rounded-5.pe-5.mb-4(data-aos="fade-down-right")
       h5.mb-0 Procedimiento para la organización del #[em office]
 
-    p.mb-5 Para garantizar la eficiencia, el coordinador debe asegurar que el office siga el método PEPS (primero en entrar, primero en salir), lo cual previene el vencimiento o deterioro de los productos.
+    p.mb-5 Para garantizar la eficiencia, el coordinador debe asegurar que el <em>office</em> siga el método PEPS (primero en entrar, primero en salir), lo cual previene el vencimiento o deterioro de los productos.
 
     .row.justify-content-center.mb-4.mb-lg-5
       .col-xl-10
@@ -330,7 +336,7 @@
           .row.align-items-center.justify-content-center
             .col-md-9.mb-4.mb-md-0
               h3 Recepción y ubicación: 
-              p al recibir los suministros desde el almacén, se colocan en el office siguiendo una distribución lógica: lo más pesado abajo (químicos), lo más liviano arriba (amenidades), y lo de mayor uso al medio (papel higiénico).
+              p Al recibir los suministros desde el almacén, se colocan en el <em>office</em> siguiendo una distribución lógica: lo más pesado abajo (químicos), lo más liviano arriba (amenidades), y lo de mayor uso al medio (papel higiénico).
             .col-6.col-md-3
               figure
                 img.w-120(src='@/assets/curso/tema4/31.svg', alt='')
@@ -340,11 +346,11 @@
                 img.w-120(src='@/assets/curso/tema4/32.svg', alt='')
             .col-md-9
               h3.text-start Rotación (PEPS / FIFO): 
-              p.text-start los productos que ya estaban en el estante se mueven hacia adelante, y los productos nuevos se colocan atrás o abajo.
+              p.text-start Los productos que ya estaban en el estante se mueven hacia adelante, y los productos nuevos se colocan atrás o abajo.
           .row.align-items-center.justify-content-center
             .col-md-9.mb-4.mb-md-0
               h3 Seguridad y accesibilidad: 
-              p todos los productos químicos deben estar correctamente rotulados (con la etiqueta original y la FDS /SGA visible), y las estanterías deben estar a una altura de 15 cm del piso (para limpieza y control de plagas) y lejos de la lencería.
+              p Todos los productos químicos deben estar correctamente rotulados (con la etiqueta original y la FDS /SGA visible), y las estanterías deben estar a una altura de 15 cm del piso (para limpieza y control de plagas) y lejos de la lencería.
             .col-6.col-md-3
               figure
                 img.w-120(src='@/assets/curso/tema4/33.svg', alt='')
@@ -354,7 +360,7 @@
                 img.w-120(src='@/assets/curso/tema4/34.svg', alt='')
             .col-md-9
               h3.text-start Devolución:
-              p.text-start al finalizar el turno, los suministros sobrantes o envases vacíos (en el caso de químicos) deben regresar al office o almacén de piso para su conteo y posterior devolución.
+              p.text-start Al finalizar el turno, los suministros sobrantes o envases vacíos (en el caso de químicos) deben regresar al <em>office</em> o almacén de piso para su conteo y posterior devolución.
 
     .row.justify-content-center.align-items-stretch.mb-4.mb-lg-5.z-2
       .col-sm-8.col-lg-5.d-none.d-lg-block

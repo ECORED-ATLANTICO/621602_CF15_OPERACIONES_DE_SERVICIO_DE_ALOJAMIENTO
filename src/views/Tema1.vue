@@ -43,35 +43,35 @@
             th Criterio de calidad
         tbody
           tr
-            td Mobiliario.
-            td Sacudido en húmedo (método de la mano plana).
-            td Paño de microfibra / Lustramuebles.
-            td Sin vetas ni residuos de grasa.
+            td Mobiliario
+            td Sacudido en húmedo (método de la mano plana)
+            td Paño de microfibra / Lustramuebles
+            td Sin vetas ni residuos de grasa
           tr
-            td Accesorios.
-            td Desinfección de puntos de contacto (manijas, control).
-            td Alcohol isopropílico.
-            td Libre de huellas y microorganismos.
+            td Accesorios
+            td Desinfección de puntos de contacto (manijas, control)
+            td Alcohol isopropílico
+            td Libre de huellas y microorganismos
           tr
-            td Baños.
-            td Fregado de juntas y desincrustación de loza.
-            td Fibra blanca / Amonios.
-            td Porcelana brillante y sin sarro.
+            td Baños
+            td Fregado de juntas y desincrustación de loza
+            td Fibra blanca / Amonios
+            td Porcelana brillante y sin sarro
           tr
-            td Pisos.
-            td Trapeado en "ocho" o zigzag de adentro hacia afuera.
-            td Mopa / Detergente neutro.
-            td Sin marcas de agua ni pelusas.
+            td Pisos
+            td Trapeado en "ocho" o <em>zigzag</em> de adentro hacia afuera
+            td Mopa / Detergente neutro
+            td Sin marcas de agua ni pelusas
           tr
-            td Paredes.
-            td Limpieza ascendente para evitar chorreaduras.
-            td Esponja suave.
-            td Sin manchas de roce o polvo.
+            td Paredes
+            td Limpieza ascendente para evitar chorreaduras
+            td Esponja suave
+            td Sin manchas de roce o polvo
           tr
-            td Ventanas.
-            td Técnica de "S" o zigzag con jalador de goma.
-            td Limpiavidrios.
-            td Transparencia total sin rayones.
+            td Ventanas
+            td Técnica de "S" o <em>zigzag</em> con jalador de goma
+            td Limpiavidrios
+            td Transparencia total sin rayones
 
     separador
     
@@ -137,20 +137,20 @@
             th Rendimiento estándar
         tbody
           tr
-            td Desinfectante.
-            td 10 ml por 1 litro.
-            td Pisos y baños.
-            td 50 m² por litro preparado.
+            td Desinfectante
+            td 10 ml por 1 litro
+            td Pisos y baños
+            td 50 m² por litro preparado
           tr
-            td Detergente neutro.
-            td 20 ml por 1 litro.
-            td Mobiliario.
-            td 10 habitaciones por litro.
+            td Detergente neutro
+            td 20 ml por 1 litro
+            td Mobiliario
+            td 10 habitaciones por litro
           tr
-            td Limpiavidrios.
-            td Uso directo.
-            td Espejos / ventanas.
-            td 15 m² por atomizador.
+            td Limpiavidrios
+            td Uso directo
+            td Espejos / ventanas
+            td 15 m² por atomizador
 
 </template>
 

@@ -42,14 +42,14 @@
       .col-sm-6.col-lg-5.col-xl-3.mb-4.mb-xl-0
         .tarjeta.bg-img.bg-img--7.p-4.h-100
           h4.text-center Lencería (blancos): 
-          p.mb-0.text-center sábanas, fundas, protectores de colchón, edredones (#[em duvets]), toallas (cuerpo, manos, facial, pie de baño) y batas.
+          p.mb-0.text-center Sábanas, fundas, protectores de colchón, edredones (#[em duvets]), toallas (cuerpo, manos, facial, pie de baño) y batas.
       .col-sm-6.col-lg-5.col-xl-3.mb-4.mb-xl-0
         .tarjeta.bg-img.bg-img--7.p-4.h-100
           h4.text-center Menaje y cristalería: 
           p.mb-0.text-center Vasos, tazas, platos de minibar, termos y bandejas.
       .col-sm-6.col-lg-5.col-xl-3.mb-4.mb-sm-0
         .tarjeta.bg-img.bg-img--7.p-4.h-100
-          h4.text-center Elementos de confort: 
+          h4.text-center Elementos de <em>confort</em>: 
           p.mb-0.text-center Almohadas, mantas adicionales, cojines decorativos y pies de cama.
       .col-sm-6.col-lg-5.col-xl-3
         .tarjeta.bg-img.bg-img--7.p-4.h-100
@@ -77,21 +77,21 @@
                 th(colspan="2") Criterio de calidad
             tbody
               tr
-                td Sábana blanca.
-                td(colspan="2") Percal 250 hilos, 60 % algodón / 40 % poliéster.
-                td(colspan="2") Resistencia a 200 lavados, sin pilling (moteo).
+                td Sábana blanca
+                td(colspan="2") Percal 250 hilos, 60 % algodón / 40 % poliéster
+                td(colspan="2") Resistencia a 200 lavados, sin pilling (moteo)
               tr
-                td Toalla cuerpo.
-                td(colspan="2") Gramaje de 550 g/m², 100 % algodón     ring-spun.
-                td(colspan="2") Alta absorción, suavidad al tacto, doble costura.
+                td Toalla cuerpo
+                td(colspan="2") Gramaje de 550 g/m², 100 % algodón     ring-spun
+                td(colspan="2") Alta absorción, suavidad al tacto, doble costura
               tr
-                td Almohada.
-                td(colspan="2") Relleno de fibra siliconada virgen, 700 gr.
-                td(colspan="2") Hipoalergénica, recupera forma (resiliencia).
+                td Almohada
+                td(colspan="2") Relleno de fibra siliconada virgen, 700 gr
+                td(colspan="2") Hipoalergénica, recupera forma (resiliencia)
               tr
-                td Vaso de vidrio.
-                td(colspan="2") Vidrio templado, capacidad 12 oz.
-                td(colspan="2") Transparencia total, resistente a choques térmicos.
+                td Vaso de vidrio
+                td(colspan="2") Vidrio templado, capacidad 12 oz
+                td(colspan="2") Transparencia total, resistente a choques térmicos
 
 
     .bg-title.bg-title--lg.p-3.rounded-5.pe-5.mb-4(data-aos="fade-down-right")
@@ -127,7 +127,7 @@
           .tarjeta.bg-secundario-s5.h-100
             .ps-1.py-4.pe-4
               h5 Reposición por #[em stock]: 
-              p.mb-0 El ama de llaves autoriza la salida de activos nuevos del almacén para mantener el par stock completo.
+              p.mb-0 El ama de llaves autoriza la salida de activos nuevos del almacén para mantener el par <em>stock</em> completo.
       .col-sm-6.col-lg-5.col-xl-3.mb-3.mb-xl-0
         .tarjeta-avatar-b.align-items-center(data-aos="fade-down").h-100
           .tarjeta-avatar-b__img.align-items-baseline.h-100

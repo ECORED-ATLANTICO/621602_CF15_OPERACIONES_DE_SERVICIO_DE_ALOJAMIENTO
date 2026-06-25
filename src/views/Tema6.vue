@@ -14,7 +14,7 @@
       .row.justify-content-center.z-2.mb-3
         .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
           div.banner-text.shadow
-            p.mb-0 Los objetos olvidados, conocidos en hotelería como #[em Lost & Found], hacen referencia a los artículos, pertenencias o elementos personales que los huéspedes dejan accidentalmente en habitaciones, áreas comunes u otros espacios del establecimiento después de su salida (Check-out). La adecuada administración de estos elementos es fundamental para garantizar su control, custodia y posible devolución.
+            p.mb-0 Los objetos olvidados, conocidos en hotelería como #[em Lost & Found], hacen referencia a los artículos, pertenencias o elementos personales que los huéspedes dejan accidentalmente en habitaciones, áreas comunes u otros espacios del establecimiento después de su salida (<em>Check-out</em>). La adecuada administración de estos elementos es fundamental para garantizar su control, custodia y posible devolución.
 
     .p-4.bg-acento-botones-a5.mb-4.rounded-4
       p.mb-0 La gestión de objetos olvidados requiere la aplicación de procedimientos organizados para el reporte, registro, clasificación, almacenamiento y seguimiento de cada pertenencia encontrada durante las labores operativas del área de alojamiento. Estas acciones permiten mantener la trazabilidad de los elementos, prevenir pérdidas y asegurar el cumplimiento de los protocolos internos establecidos por el hotel.
@@ -39,7 +39,7 @@
             .col-6
               img.w-125.mb-4(src='@/assets/curso/tema6/3.svg' alt='')
           h4.text-center Objetos de valor
-          p.text-center Joyas, dinero en efectivo, dispositivos electrónicos (celulares, laptops), pasaportes o documentos de identidad.
+          p.text-center Joyas, dinero en efectivo, dispositivos electrónicos (celulares, <em>laptops</em>), pasaportes o documentos de identidad.
       .col-sm-6.col-lg-5.col-xl-3.mb-4.mb-xl-0
         .tarjeta.bg-img.bg-img--13.p-4.py-5.h-100
           .row.justify-content-center.mb-3
@@ -100,16 +100,16 @@
             img(src='@/assets/curso/tema6/10.svg' alt='')
           .tarjeta.bg-secundario-s5.h-100
             .ps-1.py-4.pe-4
-              h5 Sistemas eléctricos y conectividad
-              p.mb-0 Comprobación de iluminación (bombillos), cables de comunicación y aparatos eléctricos.
+              h5 Custodia
+              p.mb-0 El objeto se coloca en una bolsa transparente, se sella con la etiqueta y se traslada al área de seguridad o la oficina de ama de llaves, que suele ser una zona restringida con llave.
       .col-sm-6.col-lg-5.col-xl-3.mb-3.mb-xl-0
         .tarjeta-avatar-b.align-items-center(data-aos="fade-up").h-100
           .tarjeta-avatar-b__img.align-items-baseline.h-100
             img(src='@/assets/curso/tema6/11.svg' alt='')
           .tarjeta.bg-secundario-s5.h-100
             .ps-1.py-4.pe-4
-              h5 Dotación de lencería
-              p.mb-0 Auditoría del estado y limpieza de toallas y lencería de cama.
+              h5 Notificación
+              p.mb-0 Recepción intentará contactar al huésped si el objeto es de alto valor, siguiendo las políticas de privacidad del hotel.
 
 
     .row.align-items-center.mb-4.mb-lg-5.justify-content-center.justify-content-lg-start

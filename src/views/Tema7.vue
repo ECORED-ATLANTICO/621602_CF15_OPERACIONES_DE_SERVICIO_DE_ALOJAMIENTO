@@ -96,7 +96,7 @@
             .col-6
               img.w-125.mb-4(src='@/assets/curso/tema7/6.svg' alt='')
           h4.text-center Análisis de reservas
-          p.mb-0 Se suman las reservas confirmadas, los grupos bloqueados y el promedio histórico de clientes que llegan sin reserva (walk-ins).
+          p.mb-0 Se suman las reservas confirmadas, los grupos bloqueados y el promedio histórico de clientes que llegan sin reserva (<em>walk-ins</em>).
       .col-sm-6.col-lg-5.col-xl-3.mb-4.mb-sm-0
         .tarjeta.bg-img.bg-img--13.p-4.py-5.h-100
           .row.justify-content-center.mb-3

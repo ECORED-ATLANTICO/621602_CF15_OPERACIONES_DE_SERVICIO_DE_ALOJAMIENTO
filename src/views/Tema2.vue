@@ -5,16 +5,16 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Gestión técnica de habitaciones
+      h1 Clasificación del mobiliario y accesorios
     
-    .row.justify-content-center.align-items-center.mb-4.mb-lg-5
+    .row.justify-content-center.align-items-center.mb-3.mb-lg-3
       .col-sm-10.col-lg-5
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema2/1.png", alt="" data-aos="zoom-in-down")
       .col-lg-7
-        p La clasificación del mobiliario y los accesorios en el área de alojamiento permite identificar, organizar y gestionar los diferentes elementos que hacen parte de la dotación y funcionamiento de las habitaciones y zonas comunes dentro de un establecimiento hotelero. Estos componentes cumplen funciones relacionadas con el confort, la funcionalidad, la decoración, la seguridad y la adecuada prestación del servicio al huésped, por lo que requieren procedimientos específicos de limpieza, conservación, mantenimiento y control operativo. 
-        p.mb-0 Asimismo, el conocimiento técnico del mobiliario y los accesorios contribuye a prevenir daños ocasionados por el uso inadecuado de productos químicos, la manipulación incorrecta o la aplicación deficiente de procedimientos operativos. Esto favorece la conservación de los elementos, prolonga su vida útil y permite mantener los estándares de calidad, presentación y funcionalidad exigidos en el servicio de alojamiento.
-
+        p La clasificación del mobiliario y los accesorios en el área de alojamiento permite identificar, organizar y gestionar los diferentes elementos que hacen parte de la dotación y funcionamiento de las habitaciones y zonas comunes dentro de un establecimiento hotelero. Estos componentes cumplen funciones relacionadas con el <em>confort</em>, la funcionalidad, la decoración, la seguridad y la adecuada prestación del servicio al huésped, por lo que requieren procedimientos específicos de limpieza, conservación, mantenimiento y control operativo. 
+        p.mb-3 Asimismo, el conocimiento técnico del mobiliario y los accesorios contribuye a prevenir daños ocasionados por el uso inadecuado de productos químicos, la manipulación incorrecta o la aplicación deficiente de procedimientos operativos. Esto favorece la conservación de los elementos, prolonga su vida útil y permite mantener los estándares de calidad, presentación y funcionalidad exigidos en el servicio de alojamiento.
+        p.mb-3 Para efectos de inventario y planeación, dividimos los elementos de la habitación de la siguiente manera:
     .row.justify-content-center.align-items-stretch.mb-4.mb-lg-5
       .col-lg-6.mb-4.mb-lg-0
         .p-4.py-3.bg-img.bg-img--9.rounded-4.h-100
@@ -30,7 +30,7 @@
           span Clasificación del mobiliario y accesorios
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema2/3.png", alt="La figura muestra la clasificación del mobiliario y accesorios que pueden encontrarse en una habitación. Esta se divide en dos partes: al lado izquierdo señala la clasificación del mobiliario de la habitación, el cual está compuesto por la cama, un escritorio y una silla. Al lado derecho la clasificación de accesorios; como lo son:  objetos como cuadros, materas, lámparas, vasos, jarras, toallas, porta toallas y porta equipaje.")
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema2/2.png", alt="La figura muestra la clasificación del mobiliario y accesorios que pueden encontrarse en una habitación. Esta se divide en dos partes: al lado izquierdo señala la clasificación del mobiliario de la habitación, el cual está compuesto por la cama, un escritorio y una silla. Al lado derecho la clasificación de accesorios; como lo son:  objetos como cuadros, materas, lámparas, vasos, jarras, toallas, porta toallas y porta equipaje.")
-        figcaption  Nota. SENA, (2024).
+        figcaption  Nota. SENA, (2026).
 
     separador
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -71,7 +71,7 @@
             .col-lg-7.col-xl-5.mb-4.mb-lg-0
               h4 Superficies de trabajo
               p Material: vidrio / cristal.
-              p Técnica de limpieza: uso de limpiavidrios con técnica de zigzag. Secado con paño que no deje pelusas.
+              p Técnica de limpieza: uso de limpiavidrios con técnica de <em>zigzag</em>. Secado con paño que no deje pelusas.
               p.mb-0 Frecuencia sugerida: diaria.
             .col-lg-5
               figure
@@ -90,9 +90,9 @@
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema2/9.png", alt="" data-aos="zoom-in-down")
       .col-lg-8
-        p Los productos de aseo y desinfección son insumos fundamentales en las operaciones de limpieza y mantenimiento del área de alojamiento, ya que permiten garantizar condiciones adecuadas de higiene, seguridad y presentación en habitaciones, baños, áreas comunes y demás espacios del establecimiento hotelero. Su uso adecuado contribuye a la eliminación de suciedad, microorganismos y otros contaminantes, favoreciendo ambientes saludables y confortables tanto para huéspedes como para trabajadores.
+        p La limpieza del mobiliario de la habitación constituye una actividad fundamental dentro de las operaciones del área de alojamiento, ya que permite conservar en adecuadas condiciones de higiene, presentación y funcionalidad los diferentes elementos utilizados por los huéspedes durante su estadía.
         .p-4.bg-acento-contenido-a5.rounded-4.mb-3
-          p.mb-0 La gestión técnica de estos productos comprende las actividades relacionadas con su selección, identificación, almacenamiento, manipulación, preparación y aplicación, teniendo en cuenta las características de cada sustancia, las superficies sobre las cuales serán utilizadas y los protocolos establecidos por la organización. 
+          p.mb-0 Estas actividades deben ejecutarse mediante procedimientos organizados y técnicas apropiadas, teniendo en cuenta el tipo de material, el nivel de uso y las condiciones de cada elemento, con el propósito de prevenir daños, desgaste prematuro y afectaciones ocasionadas por el uso inadecuado de productos químicos o herramientas de limpieza. 
 
 
     .titulo-sexto.color-acento-contenido.mb-4
@@ -100,7 +100,7 @@
       span Matriz de limpieza: mobiliario de habitación
     .tabla-a.color-acento-contenido.tabla-a--text-left.mb-4
       table
-        caption Nota. SENA, (2024).
+        caption Nota. SENA, (2026).
         thead
           tr(style="background-color: #F0F6F9")
             th Elemento
@@ -109,22 +109,22 @@
             th Frecuencia
         tbody
           tr
-            td Muebles de madera / fórmica.
-            td Crema, aceite para pulir o paño húmedo.
+            td Muebles de madera / fórmica
+            td Crema, aceite para pulir o paño húmedo
             td(colspan="2") Retirar polvo con paño. Aplicar aceite con un paño y pulir con otro seco.
             td 
-              p.mb-0 Polvo: diario. 
-              p.mb-0 Pulido: 2-3 veces/semana.
+              p.mb-0 Polvo: diario 
+              p.mb-0 Pulido: 2-3 veces/semana
           tr
-            td Muebles de tela.
-            td Shampoo específico / Aspirado.
+            td Muebles de tela
+            td Shampoo específico / Aspirado
             td(colspan="2") Aspirar con el cepillo indicado. El lavado lo realiza personal especializado.
-            td Cuando presenten suciedad.
+            td Cuando presenten suciedad
           tr
-            td Vitrinas y espejos.
-            td Limpiavidrios / Solución detergente.
+            td Vitrinas y espejos
+            td Limpiavidrios / Solución detergente
             td(colspan="2") Fregar marcos con esponja, limpiar vidrio y pulir con papel absorbente.
-            td En habitaciones de salida.
+            td En habitaciones de salida
 
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
@@ -143,32 +143,32 @@
           span Matriz de limpieza: accesorios y complementos
         .tabla-a.color-acento-contenido.tabla-a--text-left.mb-4
           table
-            caption Nota. SENA, (2024).
+            caption Nota. SENA, (2026).
             thead
               tr(style="background-color: #F0F6F9")
                 th Accesorio
                 th(colspan="2") Producto
-                th(colspan="2") Procedimiento técnico
+                th(colspan="2") Procedimiento técnico.
             tbody
               tr
-                td Bandeja, termo, vasos.
-                td(colspan="2") Solución detergente higienizante.
+                td Bandeja, termo, vasos
+                td(colspan="2") Solución detergente higienizante
                 td(colspan="2") Lavar, dejar actuar y pasar por agua caliente para eliminar bacterias. Secar bien.
               tr
-                td Ceniceros.
-                td(colspan="2") Solución detergente.
+                td Ceniceros
+                td(colspan="2") Solución detergente
                 td(colspan="2") Vaciar cenizas, lavar para eliminar olor y suciedad. Enjuagar y secar.
               tr
-                td Cortinas.
-                td(colspan="2") Aspirado / detergente.
+                td Cortinas
+                td(colspan="2") Aspirado / detergente
                 td(colspan="2") Correr y aspirar con cepillo. Lavado en seco o tintorería según material.
               tr
-                td Lámparas.
-                td(colspan="2") Shampoo (pantallas) / brasso (metal).
+                td Lámparas
+                td(colspan="2") Shampoo (pantallas) / brasso (metal)
                 td(colspan="2") Desconectar antes. Quitar polvo con paño seco. Limpiar pantallas con espuma.
               tr
-                td Cuadros al óleo.
-                td(colspan="2") Paño seco (pintura) / húmedo (marco).
+                td Cuadros al óleo
+                td(colspan="2") Paño seco (pintura) / húmedo (marco)
                 td(colspan="2") Retirar polvo del área pintada solo con paño seco. No tocar la pintura con humedad.
 
     .bg-title.bg-title--lg.p-3.rounded-5.pe-5.mb-4(data-aos="fade-down-right")
@@ -268,7 +268,7 @@
 
       .row.justify-content-center.align-items-center(titulo="Verificación de funcionamiento")
         .col-sm-10.col-lg-8.col-xl-7.mb-4.mb-lg-0
-          p.mb-0 Actividad orientada a comprobar el correcto funcionamiento de equipos y elementos de uso frecuente dentro de la habitación, como luminarias, cerraduras, griferías, aire acondicionado, teléfonos, controles y tomas eléctricas. Su aplicación permite prevenir fallas operativas y asegurar condiciones adecuadas de confort y seguridad para el huésped.
+          p.mb-0 Actividad orientada a comprobar el correcto funcionamiento de equipos y elementos de uso frecuente dentro de la habitación, como luminarias, cerraduras, griferías, aire acondicionado, teléfonos, controles y tomas eléctricas. Su aplicación permite prevenir fallas operativas y asegurar condiciones adecuadas de <em>confort</em> y seguridad para el huésped.
         .col-sm-8.col-lg-4.col-xl-3
           figure
             img(src="@/assets/curso/tema2/18.png", alt="" data-aos="zoom-in-down")

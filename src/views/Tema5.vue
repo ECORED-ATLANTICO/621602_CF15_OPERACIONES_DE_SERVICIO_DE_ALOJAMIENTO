@@ -39,30 +39,30 @@
             th Responsable
         tbody
           tr
-            td Aire acondicionado.
+            td Aire acondicionado
             td(colspan="2") Limpieza de filtros y revisión de gas refrigerante.
-            td Mensual.
-            td Técnico mantenimiento.
+            td Mensual
+            td Técnico mantenimiento
           tr
-            td Griferías y duchas.
+            td Griferías y duchas
             td(colspan="2") Desincrustación de cal y revisión de empaques (fugas).
-            td Trimestral.
-            td Auxiliar habitaciones.
+            td Trimestral
+            td Auxiliar habitaciones
           tr
-            td Colchones.
+            td Colchones
             td(colspan="2") Rotación (cabecera-pies / cara superior-inferior).
-            td Trimestral.
-            td Camarera de pisos.
+            td Trimestral
+            td Camarera de pisos
           tr
-            td Cerraduras electrónicas.
+            td Cerraduras electrónicas
             td(colspan="2") Revisión de baterías y ajuste de mecanismos.
-            td Semestral.
-            td Técnico mantenimiento.
+            td Semestral
+            td Técnico mantenimiento
           tr
-            td Paredes y pintura.
+            td Paredes y pintura
             td(colspan="2") Retoque de golpes y limpieza de manchas.
-            td Semestral.
-            td Auxiliar habitaciones.
+            td Semestral
+            td Auxiliar habitaciones
 
     Separador
     #t_5_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")

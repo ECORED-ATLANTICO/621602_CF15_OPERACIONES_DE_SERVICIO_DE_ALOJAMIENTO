@@ -88,7 +88,7 @@ export default {
           {
             numero: '4.2',
             titulo:
-              'Control de existencias: máximos, mínimos y stock de seguridad',
+              'Control de existencias: máximos, mínimos y <em>stock</em> de seguridad',
             hash: 't_4_2',
           },
           {
@@ -285,7 +285,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/621602_CF15_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -303,7 +303,7 @@ export default {
     {
       termino: 'Amenidades (<em>amenities</em>)',
       significado:
-        'Artículos de aseo personal y cortesía (jabón, shampoo, kits) que el hotel provee para el uso del huésped en el baño.',
+        'Artículos de aseo personal y cortesía (jabón, <em>shampoo</em>, <em>kits</em>) que el hotel provee para el uso del huésped en el baño.',
     },
     {
       termino: 'Bloqueo (fuera de servicio)',
@@ -353,7 +353,7 @@ export default {
     {
       termino: '<em>Office</em> de piso',
       significado:
-        'Área de almacenamiento técnico en el pasillo de habitaciones donde se custodia el stock diario de lencería y suministros.',
+        'Área de almacenamiento técnico en el pasillo de habitaciones donde se custodia el <em>stock</em> diario de lencería y suministros.',
     },
     {
       termino: '<em>Par stock</em>',
@@ -473,8 +473,8 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
-          centro: 'Centro Agroturistico - Regional Santander',
+            'Profesional 06 - Responsable Nacional Ecosistema de Recursos Educativos Digitales (RED)',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Miguel de Jesús Paredes Maestre ',
