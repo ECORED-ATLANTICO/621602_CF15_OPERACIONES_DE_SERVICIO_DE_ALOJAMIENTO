@@ -274,8 +274,8 @@
             h5 ¿Sabías qué?
             p Lo invitamos a escuchar el siguiente pódcast:
             TarjetaAudio.color-terciario.mb-3(
-              texto="“Charlas que venden” Episodio: Definir algunos principios básicos "
-              :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+              texto="Control técnico de suministros: eficiencia y organización en hotelería"
+              :audio="require('@/assets/curso/podcast/podcast_2.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
 
