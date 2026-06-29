@@ -79,10 +79,10 @@
               tr
                 td Sábana blanca
                 td(colspan="2") Percal 250 hilos, 60 % algodón / 40 % poliéster
-                td(colspan="2") Resistencia a 200 lavados, sin pilling (moteo)
+                td(colspan="2") Resistencia a 200 lavados, sin <em>pilling</em> (moteo)
               tr
                 td Toalla cuerpo
-                td(colspan="2") Gramaje de 550 g/m², 100 % algodón     ring-spun
+                td(colspan="2") Gramaje de 550 g/m², 100 % algodón <em>ring-spun</em>
                 td(colspan="2") Alta absorción, suavidad al tacto, doble costura
               tr
                 td Almohada
@@ -101,7 +101,7 @@
       p.mb-0.text-center Para que el hotel funcione sin contratiempos, se aplica el concepto de "<strong><em>Par Stock</em></strong>" (inventario base). Generalmente, un hotel maneja de 3 a 5 juegos de lencería por habitación (uno puesto, uno sucio en lavandería, uno limpio en estante).
 
     .bg-title.bg-title--lg.p-3.rounded-5.pe-5.mb-4(data-aos="fade-down-right")
-      h5.mb-0 Procedimiento de reposición:
+      h5.mb-0 Procedimiento de reposición
 
     .row.mb-5.justify-content-center.align-items-stretch
       .col-sm-6.col-lg-5.col-xl-3.mb-3.mb-xl-0
@@ -110,7 +110,7 @@
             img(src='@/assets/curso/tema10/3.svg' alt='')
           .tarjeta.bg-secundario-s5.h-100
             .ps-1.py-4.pe-4
-              h5 Conteo en la salida: 
+              h5 Conteo en la salida 
               p.mb-0 Al hacer el aseo, el auxiliar de habitaciones verifica que no falten activos (ej. Toallas o ganchos).
       .col-sm-6.col-lg-5.col-xl-3.mb-3.mb-xl-0
         .tarjeta-avatar-b.align-items-center(data-aos="fade-down").h-100
@@ -118,7 +118,7 @@
             img(src='@/assets/curso/tema10/4.svg' alt='')
           .tarjeta.bg-secundario-s5.h-100
             .ps-1.py-4.pe-4
-              h5 Reporte de bajas: 
+              h5 Reporte de bajas 
               p.mb-0 Si una sábana está rota o manchada permanentemente, se retira de operación y se reporta como "baja".
       .col-sm-6.col-lg-5.col-xl-3.mb-3.mb-xl-0
         .tarjeta-avatar-b.align-items-center(data-aos="fade-down").h-100
@@ -126,7 +126,7 @@
             img(src='@/assets/curso/tema10/5.svg' alt='')
           .tarjeta.bg-secundario-s5.h-100
             .ps-1.py-4.pe-4
-              h5 Reposición por #[em stock]: 
+              h5 Reposición por #[em stock]
               p.mb-0 El ama de llaves autoriza la salida de activos nuevos del almacén para mantener el par <em>stock</em> completo.
       .col-sm-6.col-lg-5.col-xl-3.mb-3.mb-xl-0
         .tarjeta-avatar-b.align-items-center(data-aos="fade-down").h-100
@@ -134,7 +134,7 @@
             img(src='@/assets/curso/tema10/6.svg' alt='')
           .tarjeta.bg-secundario-s5.h-100
             .ps-1.py-4.pe-4
-              h5 Rotación: 
+              h5 Rotación
               p.mb-0 Para que el desgaste sea uniforme, la lencería que sale de lavandería debe colocarse debajo de la que ya está en el estante (uso equitativo).
       
   

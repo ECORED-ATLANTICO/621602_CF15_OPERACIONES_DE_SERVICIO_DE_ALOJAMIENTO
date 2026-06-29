@@ -102,7 +102,7 @@
           .row.justify-content-center.mb-3
             .col-6
               img.w-125.mb-4(src='@/assets/curso/tema7/7.svg' alt='')
-          h4.text-center Cálculo del porcentaje de ocupación: 
+          h4.text-center Cálculo del porcentaje de ocupación 
           p.mb-0 Se aplica la fórmula técnica para obtener el indicador.
 
     .bg-title.bg-title--lg.p-3.rounded-5.pe-5.mb-4(data-aos="fade-down-right")

@@ -84,14 +84,14 @@
                 img(src='@/assets/curso/tema8/5.png', alt='')
           .row.justify-content-center.align-items-center
             .col-lg-7.col-xl-5.mb-4.mb-lg-0
-              h4 Maquillaje y fragancias: 
+              h4 Maquillaje y fragancias
               p.mb-0 El maquillaje debe ser natural y discreto. Se prohíbe el uso de perfumes fuertes o llamativos; se recomiendan colonias frescas o simplemente el uso de desodorante neutro.
             .col-lg-5
               figure
                 img(src='@/assets/curso/tema8/6.png', alt='')
           .row.justify-content-center.align-items-center
             .col-lg-7.col-xl-5.mb-4.mb-lg-0
-              h4 Accesorios: 
+              h4 Accesorios 
               p.mb-0 Por seguridad y ergonomía, se debe limitar el uso de joyas. Se permite un reloj sencillo y anillos de boda lisos. Se deben evitar aretes largos o colgantes que puedan enredarse durante la limpieza.
             .col-lg-5
               figure

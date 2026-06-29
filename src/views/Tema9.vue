@@ -90,7 +90,7 @@
               p.mb-0 Galones, litros o pimpinas (para dilución posterior).
           .row(numero="2" titulo="Amenidades")
             .col-auto
-              p.mb-0 Unidades (unids), cajas o gruesas (144 unidades).
+              p.mb-0 Unidades (unids.), cajas o gruesas (144 unidades).
           .row(numero="3" titulo="Papelería")
             .col-auto
               p.mb-0 Resmas, paquetes o bloques.
@@ -211,7 +211,7 @@
           tr
             td Jabón de tocador
             td Amenidad
-            td 20 gr, envase de papel kraft (sostenible)
+            td 20 gr, envase de papel <em>kraft</em> (sostenible)
             td Caja x 100 unid
   
     separador

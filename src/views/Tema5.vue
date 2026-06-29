@@ -110,7 +110,7 @@
 
     .titulo-sexto.color-acento-contenido.mb-4
       h5 Figura 2.
-      span Clasificación del mobiliario y accesorios
+      span Estructura del documento de soporte y seguimiento 
     img.mb-2.d-sm-none(data-aos="fade-down", src="@/assets/curso/tema5/6-mob.svg", alt="La figura muestra la Estructura del documento de soporte y seguimiento. Cada sección describe los componentes básicos de un documento de control de mantenimiento en alojamiento: encabezado del documento, propósito, alcance, responsables y conservación. El documento permite registrar y hacer seguimiento a las solicitudes de mantenimiento, indicando la información de identificación documental, las áreas involucradas, el personal responsable —como camarera, técnico de mantenimiento y ama de llaves— y las condiciones para su conservación según la gestión documental del establecimiento.")
     img.mb-2.d-none.d-sm-block(data-aos="fade-down", src="@/assets/curso/tema5/6.svg", alt="La figura muestra la Estructura del documento de soporte y seguimiento. Cada sección describe los componentes básicos de un documento de control de mantenimiento en alojamiento: encabezado del documento, propósito, alcance, responsables y conservación. El documento permite registrar y hacer seguimiento a las solicitudes de mantenimiento, indicando la información de identificación documental, las áreas involucradas, el personal responsable —como camarera, técnico de mantenimiento y ama de llaves— y las condiciones para su conservación según la gestión documental del establecimiento.")
     figcaption  Nota. SENA, (2026).

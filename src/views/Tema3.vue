@@ -116,7 +116,7 @@
         .row.justify-content-center.mb-3
           .col-6
             img.w-90.mb-4(src='@/assets/curso/tema3/10.svg' alt='')
-        p.text-center Habitación con pasador. asegurada desde el interior mediante pasador o dispositivo de seguridad.
+        p.text-center Habitación con pasador: asegurada desde el interior mediante pasador o dispositivo de seguridad.
 
     Separador
 

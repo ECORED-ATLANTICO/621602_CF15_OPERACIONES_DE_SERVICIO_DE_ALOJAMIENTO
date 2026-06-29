@@ -155,7 +155,7 @@
               p.mb-0 Cantidad máxima que el almacén puede o debe custodiar para evitar deterioro o pérdidas de espacio.
           .row.justify-content-center.align-items-center.mb-5
             .col-lg-11
-              h4 Stock de seguridad 
+              h4 #[em Stock] de seguridad 
               p.mb-0 Reserva extra para cubrir retrasos de proveedores o picos inesperados de ocupación.
           .row.justify-content-center.align-items-center.mb-5
             .col-lg-11
@@ -294,22 +294,22 @@
           tr
             td Amenidades y consumibles
             td Jabones, #[em shampoo], kits dentales, café, té
-            td Lugar fresco, seco y protegido de la luz solar directa. Mantener en sus empaques originales
+            td Lugar fresco, seco y protegido de la luz solar directa. Mantener en sus empaques originales.
             td Humedad (jabones derretidos), caducidad prematura, decoloración del empaque.
           tr
             td Insumos químicos (limpieza)
             td Desinfección de puntos de contacto (manijas, control)
-            td Área ventilada, lejos de fuentes de calor. Almacenar por debajo de la lencería para evitar derrames accidentales que dañen los textiles
+            td Área ventilada, lejos de fuentes de calor. Almacenar por debajo de la lencería para evitar derrames accidentales que dañen los textiles.
             td Evaporación, degradación de compuestos, derrame y contaminación.
           tr
             td Papelería y complementos
             td Papel higiénico, pañuelos, libretas, bolígrafos, bolsas
-            td Lugar seco, libre de humedad excesiva. Apilar en estanterías, nunca directamente sobre el piso
+            td Lugar seco, libre de humedad excesiva. Apilar en estanterías, nunca directamente sobre el piso.
             td Papel húmedo, arrugado o manchado, tinta de bolígrafos seca.
           tr
             td Bienes muebles pequeños
             td Ganchos (perchas), vasos, termos, cubetas
-            td Organizados por tipo en estanterías. Evitar el apilamiento excesivo
+            td Organizados por tipo en estanterías. Evitar el apilamiento excesivo.
             td Daños físicos, rayones, desportillado (vasos).
 
     separador 

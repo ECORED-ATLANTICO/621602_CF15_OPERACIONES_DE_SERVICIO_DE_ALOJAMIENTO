@@ -28,8 +28,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 1.
           span Clasificación del mobiliario y accesorios
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema2/3.png", alt="La figura muestra la clasificación del mobiliario y accesorios que pueden encontrarse en una habitación. Esta se divide en dos partes: al lado izquierdo señala la clasificación del mobiliario de la habitación, el cual está compuesto por la cama, un escritorio y una silla. Al lado derecho la clasificación de accesorios; como lo son:  objetos como cuadros, materas, lámparas, vasos, jarras, toallas, porta toallas y porta equipaje.")
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema2/2.png", alt="La figura muestra la clasificación del mobiliario y accesorios que pueden encontrarse en una habitación. Esta se divide en dos partes: al lado izquierdo señala la clasificación del mobiliario de la habitación, el cual está compuesto por la cama, un escritorio y una silla. Al lado derecho la clasificación de accesorios; como lo son:  objetos como cuadros, materas, lámparas, vasos, jarras, toallas, porta toallas y porta equipaje.")
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema2/2-mb.svg", alt="La figura muestra la clasificación del mobiliario y accesorios que pueden encontrarse en una habitación. Esta se divide en dos partes: al lado izquierdo señala la clasificación del mobiliario de la habitación, el cual está compuesto por la cama, un escritorio y una silla. Al lado derecho la clasificación de accesorios; como lo son:  objetos como cuadros, materas, lámparas, vasos, jarras, toallas, porta toallas y porta equipaje.")
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema2/2.svg", alt="La figura muestra la clasificación del mobiliario y accesorios que pueden encontrarse en una habitación. Esta se divide en dos partes: al lado izquierdo señala la clasificación del mobiliario de la habitación, el cual está compuesto por la cama, un escritorio y una silla. Al lado derecho la clasificación de accesorios; como lo son:  objetos como cuadros, materas, lámparas, vasos, jarras, toallas, porta toallas y porta equipaje.")
         figcaption  Nota. SENA, (2026).
 
     separador
@@ -164,7 +164,7 @@
                 td(colspan="2") Correr y aspirar con cepillo. Lavado en seco o tintorería según material.
               tr
                 td Lámparas
-                td(colspan="2") Shampoo (pantallas) / brasso (metal)
+                td(colspan="2") <em>Shampoo</em> (pantallas) / <em>brasso</em> (metal)
                 td(colspan="2") Desconectar antes. Quitar polvo con paño seco. Limpiar pantallas con espuma.
               tr
                 td Cuadros al óleo
@@ -206,7 +206,7 @@
             .col-lg-2.position-lg-relative.z-2
               img.position-lg-absolute.img-flotante(src="@/assets/curso/common/notebook.png", alt="").img-fluid.d-none.d-lg-block
             .col-lg-10
-              p.mb-0 #[strong Nota técnica:]. No usar detergentes fuertes o ácidos en paredes pintadas. En paredes de madera, usar aceites o cremas específicas.
+              p.mb-0 #[strong Nota técnica:] no usar detergentes fuertes o ácidos en paredes pintadas. En paredes de madera, usar aceites o cremas específicas.
 
     Separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")

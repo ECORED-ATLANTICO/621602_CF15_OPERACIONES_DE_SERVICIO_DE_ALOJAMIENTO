@@ -16,7 +16,7 @@
         figure
           img.mb-5(src="@/assets/curso/sintesis.svg", alt="El componente formativo Operación, supervisión e inventarios en el área de alojamiento orienta el desarrollo de conocimientos y habilidades relacionadas con la gestión operativa, técnica y administrativa de los procesos hoteleros en el área de alojamiento. Integra procedimientos de limpieza, desinfección, manejo técnico de productos químicos, bioseguridad, mantenimiento preventivo y reporte de novedades, aplicando técnicas según superficies, mobiliario y puntos de contacto. Además, fortalece competencias en administración de inventarios, almacenamiento, control de suministros, gestión de activos operativos y manejo de documentos de seguimiento. Asimismo, aborda el pronóstico de ocupación, la planificación operativa, el control de objetos olvidados (Lost & Found) y los protocolos de imagen y presentación personal, contribuyendo al cumplimiento de estándares de calidad, seguridad, organización y servicio en el sector hotelero.")
       .col-auto
-        a.anexo.mb-5(:href="obtenerLink('/downloads/Síntesis.pdf')" target="_blank")
+        a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/bullets/icono-pdf.svg")
           .anexo__texto
