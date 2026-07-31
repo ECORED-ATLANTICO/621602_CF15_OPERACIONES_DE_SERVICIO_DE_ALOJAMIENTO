@@ -24,7 +24,7 @@
     #t_8_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 8.1 Protocolos de porte de uniformes
 
-    p Establecen las normas y lineamientos relacionados con la adecuada presentación del personal durante el desarrollo de las actividades operativas dentro del establecimiento hotelero. Su aplicación permite proyectar una imagen organizada, profesional y acorde con los estándares de calidad y servicio definidos por la organización
+    p Establecen las normas y lineamientos relacionados con la adecuada presentación del personal durante el desarrollo de las actividades operativas dentro del establecimiento hotelero. Su aplicación permite proyectar una imagen organizada, profesional y acorde con los estándares de calidad y servicio definidos por la organización.
     p.mb-4.mb-lg-5 El uniforme es un distintivo de autoridad y servicio. Su uso debe regirse por las siguientes normas:
 
     .row.justify-content-center.align-items-center

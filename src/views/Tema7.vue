@@ -160,7 +160,7 @@
               p.mb-0 Huéspedes que deciden irse antes o quedarse más días de lo planeado.
           .row(numero="4" titulo="Eventos locales")
             .col-auto
-              p.mb-0 Huéspedes ferias, congresos o festividades que aumentan la demanda inesperadamente.
+              p.mb-0 Ferias, congresos o festividades que aumentan la demanda inesperadamente.
 
   </template>
 

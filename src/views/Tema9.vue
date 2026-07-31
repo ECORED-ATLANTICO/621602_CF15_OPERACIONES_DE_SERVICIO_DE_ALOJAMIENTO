@@ -192,7 +192,7 @@
             td Detergente multiusos
             td Limpiador
             td Ph neutro, biodegradable, aroma cítrico
-            td Galón / bidón 5 lts
+            td Galón / bidón 5 L
           tr
             td Amonio cuaternario
             td Desinfectante
@@ -224,7 +224,7 @@
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema9/8.png", alt="" data-aos="zoom-in-down")
       .col-lg-8
-        p.mb-0 Permite supervisar el consumo y aprovechamiento de los insumos utilizados en la operación hotelera, facilitando el uso eficiente de los recursos y el control de gastos en el área de alojamiento. Su aplicación contribuye a mantener un equilibrio entre la calidad del servicio y la optimización de los recursos operativo. 
+        p.mb-0 Permite supervisar el consumo y aprovechamiento de los insumos utilizados en la operación hotelera, facilitando el uso eficiente de los recursos y el control de gastos en el área de alojamiento. Su aplicación contribuye a mantener un equilibrio entre la calidad del servicio y la optimización de los recursos operativos. 
         p Este proceso incluye el seguimiento del consumo de productos de aseo, amenidades, lencería y demás suministros utilizados en las actividades de limpieza y acondicionamiento de habitaciones. Asimismo, permite identificar desperdicios, excesos de consumo y necesidades de reposición, favoreciendo una mejor administración de inventarios y presupuestos.
         .p-4.bg-acento-botones-a5.rounded-4
           p.mb-0 El rendimiento no es solo una métrica de ahorro, sino un indicador de calidad (poca cantidad no limpia, mucha cantidad daña la superficie).
@@ -255,11 +255,11 @@
               tr
                 td Bolsas de basura
                 td 2 unidades
-                td 1 paquete (50u) = 25 habitaciones
+                td 1 paquete (50 unid.) = 25 habitaciones
               tr
                 td Champú / acondicionador
                 td 1 unidad c / u
-                td 1 caja (100u) = 100 personas
+                td 1 caja (100 unid.) = 100 personas
 
     .row.justify-content-center.align-items-stretch.mb-4.mb-lg-5.z-2
       .col-sm-8.col-lg-5.d-none.d-lg-block

@@ -78,7 +78,8 @@
                 img(src='@/assets/curso/tema2/7.png', alt='')
           .row.justify-content-center.align-items-center
             .col-lg-7.col-xl-5.mb-4.mb-lg-0
-              h4 Material: acero / cromo.
+              h4 Elementos metálicos
+              p Material: acero / cromo.
               p Técnica de limpieza: desinfección y brillo con paño seco. Evitar fibras abrasivas que rayen el material.
               p.mb-0 Frecuencia sugerida: diaria.
             .col-lg-5
@@ -148,7 +149,7 @@
               tr(style="background-color: #F0F6F9")
                 th Accesorio
                 th(colspan="2") Producto
-                th(colspan="2") Procedimiento técnico.
+                th(colspan="2") Procedimiento técnico
             tbody
               tr
                 td Bandeja, termo, vasos
@@ -217,7 +218,7 @@
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema2/14.png", alt="" data-aos="zoom-in-down")
       .col-lg-8
-        p.mb-4 Corresponde a las actividades orientadas a conservar en adecuadas condiciones de higiene y presentación las superficies y objetos que son manipulados frecuentemente por huéspedes y trabajadores dentro de las habitaciones y áreas comunes del establecimiento de alojamiento, debido a que son los espacios donde se concentra una mayor carga microbiana. Entre los principales puntos de contacto se encuentran manijas, interruptores, controles remotos, teléfonos, pasamanos, griferías, chapas, botones, escritorios, mesas y otros componentes de uso constante durante la operación hotelera. Debido a su frecuente manipulación, estos elementos requieren procesos periódicos de limpieza y desinfección, utilizando productos y técnicas apropiadas según el tipo de material y las recomendaciones establecidas por el fabricante.
+        p.mb-4 Corresponde a las actividades orientadas a conservar en adecuadas condiciones de higiene, las superficies y objetos que son manipulados frecuentemente por huéspedes y trabajadores dentro de las habitaciones y áreas comunes del establecimiento de alojamiento, debido a que son los espacios donde se concentra una mayor carga microbiana. Entre los principales puntos de contacto se encuentran manijas, interruptores, controles remotos, teléfonos, pasamanos, griferías, chapas, botones, escritorios, mesas y otros componentes de uso constante durante la operación hotelera. Debido a su frecuente manipulación, estos elementos requieren procesos periódicos de limpieza y desinfección, utilizando productos y técnicas apropiadas según el tipo de material y las recomendaciones establecidas por el fabricante.
         LineaTiempoD.color-primario
           .row(numero="1" titulo="Lámparas y pantallas")
             .col-auto

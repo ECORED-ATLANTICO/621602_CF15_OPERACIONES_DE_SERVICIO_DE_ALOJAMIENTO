@@ -86,7 +86,7 @@
                 td(colspan="2") Alta absorción, suavidad al tacto, doble costura
               tr
                 td Almohada
-                td(colspan="2") Relleno de fibra siliconada virgen, 700 gr
+                td(colspan="2") Relleno de fibra siliconada virgen, 700 g
                 td(colspan="2") Hipoalergénica, recupera forma (resiliencia)
               tr
                 td Vaso de vidrio
@@ -98,7 +98,7 @@
       h5.mb-0 Procedimiento de manejo y reposición
 
     .p-4.bg-acento-contenido-a10.rounded-4.mb-4
-      p.mb-0.text-center Para que el hotel funcione sin contratiempos, se aplica el concepto de "<strong><em>Par Stock</em></strong>" (inventario base). Generalmente, un hotel maneja de 3 a 5 juegos de lencería por habitación (uno puesto, uno sucio en lavandería, uno limpio en estante).
+      p.mb-0.text-center Para que el hotel funcione sin contratiempos, se aplica el concepto de "<strong><em>par stock</em></strong>" (inventario base). Generalmente, un hotel maneja de 3 a 5 juegos de lencería por habitación (uno puesto, uno sucio en lavandería, uno limpio en estante).
 
     .bg-title.bg-title--lg.p-3.rounded-5.pe-5.mb-4(data-aos="fade-down-right")
       h5.mb-0 Procedimiento de reposición
@@ -111,7 +111,7 @@
           .tarjeta.bg-secundario-s5.h-100
             .ps-1.py-4.pe-4
               h5 Conteo en la salida 
-              p.mb-0 Al hacer el aseo, el auxiliar de habitaciones verifica que no falten activos (ej. Toallas o ganchos).
+              p.mb-0 Al hacer el aseo, el auxiliar de habitaciones verifica que no falten activos (ej. toallas o ganchos).
       .col-sm-6.col-lg-5.col-xl-3.mb-3.mb-xl-0
         .tarjeta-avatar-b.align-items-center(data-aos="fade-down").h-100
           .tarjeta-avatar-b__img.align-items-baseline.h-100
@@ -127,7 +127,7 @@
           .tarjeta.bg-secundario-s5.h-100
             .ps-1.py-4.pe-4
               h5 Reposición por #[em stock]
-              p.mb-0 El ama de llaves autoriza la salida de activos nuevos del almacén para mantener el par <em>stock</em> completo.
+              p.mb-0 El ama de llaves autoriza la salida de activos nuevos del almacén para mantener el <em>par stock</em> completo.
       .col-sm-6.col-lg-5.col-xl-3.mb-3.mb-xl-0
         .tarjeta-avatar-b.align-items-center(data-aos="fade-down").h-100
           .tarjeta-avatar-b__img.align-items-baseline.h-100

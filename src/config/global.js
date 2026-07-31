@@ -402,8 +402,7 @@ export default {
     {
       referencia:
         'ICONTEC. (2024). <em>Guía explicativa NTC 6503: Sistema de gestión de sostenibilidad para establecimientos de alojamiento y hospedaje</em>.',
-      link:
-        'https://calidadturistica.gov.co/attachments/courses/1/36/Gu%C3%ADa%20explicativa%20NTC-6503%20SGSostenibilidad%20establecimiento%20de%20alojamiento%20y%20hospedaje.pdf',
+      link: '',
     },
     {
       referencia:
@@ -473,7 +472,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Profesional 06 - Responsable Nacional Ecosistema de Recursos Educativos Digitales (RED)',
+            'Profesional 06. Responsable del Ecosistema de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {

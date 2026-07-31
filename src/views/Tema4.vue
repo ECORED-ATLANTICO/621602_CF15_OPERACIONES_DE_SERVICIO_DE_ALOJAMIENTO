@@ -178,7 +178,7 @@
           img.mb-4.mb-lg-0(src="@/assets/curso/tema4/21.png", alt="" data-aos="zoom-in-down")
       .col-lg-4
         .p-4.bg-acento-botones-a5.rounded-4
-          p.mb-0 El factor de uso corresponde al consumo promedio de un producto por cada habitación ocupada. Su cálculo permite proyectar las compras futuras, identificando la cantidad real de insumos requeridos para evitar desperdicios, faltantes o sobreabastecimiento
+          p.mb-0 El factor de uso corresponde al consumo promedio de un producto por cada habitación ocupada. Su cálculo permite proyectar las compras futuras, identificando la cantidad real de insumos requeridos para evitar desperdicios, faltantes o sobreabastecimiento.
 
     .row.justify-content-center.mb-4.mb-lg-5
       .col-lg-10.col-xl-8

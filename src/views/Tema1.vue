@@ -35,7 +35,7 @@
       span Protocolos de limpieza por componente
     .tabla-a.color-acento-contenido.tabla-a--text-left
       table
-        caption Nota. SENA, (2024).
+        caption Nota. SENA, (2026).
         thead
           tr(style="background-color: #F0F6F9")
             th Elemento
@@ -45,32 +45,32 @@
         tbody
           tr
             td Mobiliario
-            td Sacudido en húmedo (método de la mano plana)
+            td Sacudido en húmedo (método de la mano plana).
             td Paño de microfibra / Lustramuebles
             td Sin vetas ni residuos de grasa
           tr
             td Accesorios
-            td Desinfección de puntos de contacto (manijas, control)
+            td Desinfección de puntos de contacto (manijas, control).
             td Alcohol isopropílico
             td Libre de huellas y microorganismos
           tr
             td Baños
-            td Fregado de juntas y desincrustación de loza
+            td Fregado de juntas y desincrustación de loza.
             td Fibra blanca / Amonios
             td Porcelana brillante y sin sarro
           tr
             td Pisos
-            td Trapeado en "ocho" o <em>zigzag</em> de adentro hacia afuera
+            td Trapeado en "ocho" o <em>zigzag</em> de adentro hacia afuera.
             td Mopa / Detergente neutro
             td Sin marcas de agua ni pelusas
           tr
             td Paredes
-            td Limpieza ascendente para evitar chorreaduras
+            td Limpieza ascendente para evitar chorreaduras.
             td Esponja suave
             td Sin manchas de roce o polvo
           tr
             td Ventanas
-            td Técnica de "S" o <em>zigzag</em> con jalador de goma
+            td Técnica de "S" o <em>zigzag</em> con jalador de goma.
             td Limpiavidrios
             td Transparencia total sin rayones
 
@@ -129,7 +129,7 @@
       span Tabla de rendimiento y dilución (ejemplo)
     .tabla-a.color-acento-contenido.tabla-a--text-left.mb-5
       table
-        caption Nota. SENA, (2024).
+        caption Nota. SENA, (2026).
         thead
           tr(style="background-color: #F0F6F9")
             th Producto

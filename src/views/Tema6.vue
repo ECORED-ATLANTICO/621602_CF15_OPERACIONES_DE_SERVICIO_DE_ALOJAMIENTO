@@ -14,7 +14,7 @@
       .row.justify-content-center.z-2.mb-3
         .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
           div.banner-text.shadow
-            p.mb-0 Los objetos olvidados, conocidos en hotelería como #[em Lost & Found], hacen referencia a los artículos, pertenencias o elementos personales que los huéspedes dejan accidentalmente en habitaciones, áreas comunes u otros espacios del establecimiento después de su salida (<em>Check-out</em>). La adecuada administración de estos elementos es fundamental para garantizar su control, custodia y posible devolución.
+            p.mb-0 Los objetos olvidados, conocidos en hotelería como #[em Lost & Found], hacen referencia a los artículos, pertenencias o elementos personales que los huéspedes dejan accidentalmente en habitaciones, áreas comunes u otros espacios del establecimiento después de su salida (<em>check-out</em>). La adecuada administración de estos elementos es fundamental para garantizar su control, custodia y posible devolución.
 
     .p-4.bg-acento-botones-a5.mb-4.rounded-4
       p.mb-0 La gestión de objetos olvidados requiere la aplicación de procedimientos organizados para el reporte, registro, clasificación, almacenamiento y seguimiento de cada pertenencia encontrada durante las labores operativas del área de alojamiento. Estas acciones permiten mantener la trazabilidad de los elementos, prevenir pérdidas y asegurar el cumplimiento de los protocolos internos establecidos por el hotel.
@@ -53,7 +53,7 @@
             .col-6
               img.w-125.mb-4(src='@/assets/curso/tema6/5.svg' alt='')
           h4.text-center Objetos perecederos
-          p.text-center Alimentos o bebidas abiertas. (por norma de higiene, estos suelen descartarse tras un periodo de 24 horas si no son reclamados).
+          p.text-center Alimentos o bebidas abiertas (por norma de higiene, estos suelen descartarse tras un periodo de 24 horas si no son reclamados).
       .col-sm-6.col-lg-5.col-xl-3
         .tarjeta.bg-img.bg-img--13.p-4.py-5.h-100
           .row.justify-content-center.mb-3
